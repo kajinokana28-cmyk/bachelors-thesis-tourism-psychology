@@ -1,0 +1,2 @@
+# bachelors-thesis-tourism-psychology
+令和7年度卒業論文「若年層の観光動機と心理機能の関係：Iso-AholaモデルとJung理論を用いた探索的研究」の統計分析用Pythonコード
